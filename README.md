@@ -1,2 +1,2 @@
 # hello-world
-Write a short description.
+Brad Starling from Edmonton, Alberta branching out. 
